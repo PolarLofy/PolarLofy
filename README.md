@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**PolarLofy/PolarLofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+Bem vindo ao meu perfil ✌
+<p align="center">  
+<p align="center">  
+<img src="https://cdn.discordapp.com/emojis/905957874138750987.gif">
+</p>
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=PolarLofy&show_icons=true&theme=dark&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolarLofy&theme=dark">
+</p>
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=PolarLofy&color=grey">
+<img src="https://img.shields.io/github/followers/PolarLofy.svg?style=social&label=Follow&maxAge=2592000">
+</p>
